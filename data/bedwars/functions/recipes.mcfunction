@@ -4,6 +4,7 @@ recipe give @a bedwars:blocks/clay_from_diamond_shovel
 recipe give @a bedwars:blocks/clay
 recipe give @a bedwars:blocks/dirt
 recipe give @a bedwars:blocks/gold_block
+recipe give @a bedwars:blocks/infested_stone
 recipe give @a bedwars:blocks/iron_bars
 recipe give @a bedwars:blocks/iron_block
 recipe give @a bedwars:blocks/jungle_planks
@@ -27,10 +28,20 @@ recipe give @a bedwars:misc/chest
 recipe give @a bedwars:misc/crafting_table
 recipe give @a bedwars:misc/ender_chest
 recipe give @a bedwars:misc/ender_pearl
+recipe give @a bedwars:misc/flint_and_steel
 recipe give @a bedwars:misc/golden_apple
 recipe give @a bedwars:misc/notch_apple
 recipe give @a bedwars:misc/tnt
 recipe give @a bedwars:misc/torch
+
+recipe give @a[team=red] bedwars:team/red_wool
+recipe give @a[team=blue] bedwars:team/blue_wool
+recipe give @a[team=green] bedwars:team/green_wool
+recipe give @a[team=yellow] bedwars:team/yellow_wool
+recipe take @a[team=!red] bedwars:team/red_wool
+recipe take @a[team=!blue] bedwars:team/blue_wool
+recipe take @a[team=!green] bedwars:team/green_wool
+recipe take @a[team=!yellow] bedwars:team/yellow_wool
 
 recipe give @a bedwars:tools/diamond_axe
 recipe give @a bedwars:tools/diamond_pickaxe

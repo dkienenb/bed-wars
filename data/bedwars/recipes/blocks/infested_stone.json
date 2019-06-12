@@ -1,15 +1,20 @@
 {
 	"type": "minecraft:crafting_shaped",
 	"pattern": [
-		"gg",
-		"gg"
+		"sss",
+		"sgs",
+		"sss"
 	],
 	"key": {
+		"s": {
+			"item": "minecraft:stone"
+		},
 		"g": {
 			"item": "minecraft:gold_ingot"
 		}
 	},
 	"result": {
-		"item": "minecraft:gold_block"
+		"item": "minecraft:infested_stone",
+		"count": 8
 	}
 }

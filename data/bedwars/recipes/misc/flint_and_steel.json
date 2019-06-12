@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"i i",
+		"ig ",
+		"i i"
+	],
+	"key": {
+		"i": {
+			"item": "minecraft:iron_ingot"
+		},
+		"g": {
+			"item": "minecraft:gold_block"
+		}
+	},
+	"result": {
+		"item": "minecraft:flint_and_steel"
+	}
+}
