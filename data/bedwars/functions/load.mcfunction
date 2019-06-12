@@ -14,3 +14,20 @@ scoreboard players set resToggleG global 0
 scoreboard players set resToggleD global 0
 
 gamerule naturalRegeneration false
+gamerule doLimitedCrafting true
+
+team add red "Red Team"
+team modify red friendlyFire false
+team modify red color red
+
+team add blue "Blue Team"
+team modify blue friendlyFire false
+team modify blue color blue
+
+team add green "Green Team"
+team modify green friendlyFire false
+team modify green color green
+
+team add yellow "Yellow Team"
+team modify yellow friendlyFire false
+team modify yellow color yellow
