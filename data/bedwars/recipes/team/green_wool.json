@@ -1,7 +1,8 @@
 {
 	"type": "minecraft:crafting_shaped",
 	"pattern": [
-		"i"
+		"i ",
+		" i"
 	],
 	"key": {
 		"i": {
@@ -9,6 +10,6 @@
 		}
 	},
 	"result": {
-		"item": "minecraft:red_wool"
+		"item": "minecraft:green_wool"
 	}
 }
