@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"s"
+	],
+	"key": {
+		"s": {
+			"item": "minecraft:wooden_shovel"
+		}
+	},
+	"result": {
+		"item": "minecraft:dirt",
+		"count": 16
+	}
+}

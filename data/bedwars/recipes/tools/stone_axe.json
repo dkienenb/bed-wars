@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"ggg",
+		"g#g",
+		"ggg"
+	],
+	"key": {
+		"g": {
+			"item": "minecraft:gold_ingot"
+		},
+		"#": {
+			"item": "minecraft:wooden_axe"
+		}
+	},
+	"result": {
+		"item": "minecraft:stone_axe"
+	}
+}

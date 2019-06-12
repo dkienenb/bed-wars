@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"o",
+		"o",
+		"j"
+	],
+	"key": {
+		"j": {
+			"item": "minecraft:jungle_planks"
+		},
+		"o": {
+			"item": "minecraft:oak_planks"
+		}
+	},
+	"result": {
+		"item": "minecraft:wooden_sword"
+	}
+}

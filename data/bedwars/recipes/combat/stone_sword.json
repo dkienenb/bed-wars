@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"sss",
+		"sws",
+		"sss"
+	],
+	"key": {
+		"s": {
+			"item": "minecraft:stone"
+		},
+		"w": {
+			"item": "minecraft:wooden_sword"
+		}
+	},
+	"result": {
+		"item": "minecraft:stone_sword"
+	}
+}

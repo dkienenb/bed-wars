@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "minecraft:diamond"
+		},
+		{
+			"item": "minecraft:diamond"
+		},
+		{
+			"item": "minecraft:iron_axe"
+		}
+	],
+	"result": {
+		"item": "minecraft:diamond_axe"
+	}
+}

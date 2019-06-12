@@ -26,18 +26,26 @@ setblock 0 64 -5 yellow_concrete
 fill 30 66 -5 41 70 5 stone
 setblock 35 71 0 red_bed[facing=east,part=foot]
 setblock 36 71 0 red_bed[facing=east,part=head]
+fill 45 70 -1 47 71 1 stone
+setblock 46 71 0 yellow_concrete
 
 # -- Blue (-x)
 fill -30 66 -5 -41 70 5 stone
 setblock -35 71 0 blue_bed[facing=west,part=foot]
 setblock -36 71 0 blue_bed[facing=west,part=head]
+fill -45 70 -1 -47 71 1 stone
+setblock -46 71 0 yellow_concrete
 
 # -- Yellow (+z)
 fill -5 66 30 5 70 41 stone
 setblock 0 71 35 yellow_bed[facing=south,part=foot]
 setblock 0 71 36 yellow_bed[facing=south,part=head]
+fill -1 70 45 1 71 47 stone
+setblock 0 71 46 yellow_concrete
 
 # -- Green (-z)
 fill -5 66 -30 5 70 -41 stone
 setblock 0 71 -35 green_bed[facing=north,part=foot]
 setblock 0 71 -36 green_bed[facing=north,part=head]
+fill -1 70 -45 1 71 -47 stone
+setblock 0 71 -46 yellow_concrete

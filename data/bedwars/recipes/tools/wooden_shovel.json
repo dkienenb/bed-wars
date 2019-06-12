@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"w",
+		"i",
+		"i"
+	],
+	"key": {
+		"i": {
+			"item": "minecraft:iron_ingot"
+		},
+		"w": {
+			"item": "minecraft:oak_planks"
+		}
+	},
+	"result": {
+		"item": "minecraft:wooden_shovel"
+	}
+}

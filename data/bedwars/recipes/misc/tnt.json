@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"wsw",
+		"sws",
+		"wsw"
+	],
+	"key": {
+		"w": {
+			"item": "minecraft:white_wool"
+		},
+		"s": {
+			"item": "minecraft:sand"
+		}
+	},
+	"result": {
+		"item": "minecraft:tnt"
+	}
+}

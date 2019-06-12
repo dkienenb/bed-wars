@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"i",
+		"i",
+		"b"
+	],
+	"key": {
+		"i": {
+			"item": "minecraft:iron_block"
+		},
+		"b": {
+			"item": "minecraft:birch_planks"
+		}
+	},
+	"result": {
+		"item": "minecraft:iron_sword"
+	}
+}

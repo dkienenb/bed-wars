@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"w",
+		"i"
+	],
+	"key": {
+		"w": {
+			"item": "minecraft:white_wool"
+		},
+		"i": {
+			"item": "minecraft:iron_ingot"
+		}
+	},
+	"result": {
+		"item": "minecraft:torch",
+		"count": 15
+	}
+}

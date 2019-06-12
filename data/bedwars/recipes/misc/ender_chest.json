@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"ooo",
+		"oco",
+		"ooo"
+	],
+	"key": {
+		"o": {
+			"item": "minecraft:obsidian"
+		},
+		"c": {
+			"item": "minecraft:chest"
+		}
+	},
+	"result": {
+		"item": "minecraft:ender_chest"
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"d",
+		"d",
+		"o"
+	],
+	"key": {
+		"d": {
+			"item": "minecraft:diamond"
+		},
+		"o": {
+			"item": "minecraft:obsidian"
+		}
+	},
+	"result": {
+		"item": "minecraft:diamond_sword"
+	}
+}
