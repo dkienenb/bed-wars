@@ -7,7 +7,7 @@
 	],
 	"key": {
 		"w": {
-			"item": "minecraft:white_wool"
+			"tag": "minecraft:Fixwool"
 		},
 		"s": {
 			"item": "minecraft:sand"
