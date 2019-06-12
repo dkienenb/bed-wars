@@ -27,6 +27,8 @@ recipe give @a bedwars:misc/chest
 recipe give @a bedwars:misc/crafting_table
 recipe give @a bedwars:misc/ender_chest
 recipe give @a bedwars:misc/ender_pearl
+recipe give @a bedwars:misc/golden_apple
+recipe give @a bedwars:misc/notch_apple
 recipe give @a bedwars:misc/tnt
 recipe give @a bedwars:misc/torch
 

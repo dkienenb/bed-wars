@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"ggg",
+		"gig",
+		"ggg"
+	],
+	"key": {
+		"g": {
+			"item": "minecraft:gold_ingot"
+		},
+		"i": {
+			"item": "minecraft:iron_ingot"
+		}
+	},
+	"result": {
+		"item": "minecraft:golden_apple"
+	}
+}
