@@ -15,6 +15,7 @@ scoreboard players set resToggleD global 0
 
 gamerule naturalRegeneration false
 gamerule doLimitedCrafting true
+gamerule randomTickSpeed 1000
 
 team add red "Red Team"
 team modify red friendlyFire false
