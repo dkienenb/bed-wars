@@ -49,6 +49,7 @@ recipe give @a bedwars:tools/diamond_shovel
 recipe give @a bedwars:tools/iron_axe
 recipe give @a bedwars:tools/iron_pickaxe
 recipe give @a bedwars:tools/iron_shovel
+recipe give @a bedwars:tools/shears
 recipe give @a bedwars:tools/stone_axe
 recipe give @a bedwars:tools/stone_pickaxe
 recipe give @a bedwars:tools/stone_shovel
